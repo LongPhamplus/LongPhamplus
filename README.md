@@ -20,9 +20,9 @@
 
 ### 📊 GitHub Stats
 
-![Long's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight)
+![Long's GitHub stats](https://github-readme-stats.vercel.app/api?username=LongPhamplus&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LongPhamplus&layout=compact&theme=tokyonight)
 
 ---
 
