@@ -34,12 +34,4 @@
 
 ---
 
-### 📫 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://facebook.com/your-profile)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat-square)](https://your-portfolio.com)
-
----
-
 > “Talk is cheap. Show me the code.” — Linus Torvalds
